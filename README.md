@@ -25,7 +25,9 @@ Tasks
                               Check your Hard Disk box is checked
                               Right click Hard Drive icon on Desktop, click 'Get Info' and check capacity
       ![setting you memory for 1G](https://raw.github.com/lauraccunningham/homework-01/master/images/2%20increaseTo1GofData.png)
-      - Select the Ubuntu Server Image from your downloads folder
+     - Follow defaults all the way through to finish setting up the virtual machine      
+     - Double click on the machine you've created, and it will ask you to "select start up disk"
+     - Select the Ubuntu Server Image from your downloads folder
       - Accept Defaults for VirtualBox
       - ** Note:  Left ⌘ (Command Key, http://en.wikipedia.org/wiki/Command_key) directly refers to the ⌘ key left of your space bar on the keyboard. **
       ![setting you memory for 1G](https://raw.github.com/lauraccunningham/homework-01/master/images/3%20importantToLKnowAbout.virtualBoxAutoCaptureFeature%20hitLeftCommandToReleaseMouseAndKeyBoard.png)
@@ -48,3 +50,5 @@ Tasks
   recent as 2011 do not have it, so if you are not able to find the
   option to enable, then please contact your instructors to explore
   other available options.
+     - The moment the screen turns black when it starts up, press ESC
+     
