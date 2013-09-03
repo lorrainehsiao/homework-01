@@ -28,7 +28,7 @@ Tasks
      - Follow defaults all the way through to finish setting up the virtual machine      
      - Double click on the machine you've created, and it will ask you to "select start up disk"
      - Select the Ubuntu Server Image from your downloads folder
-      - Accept Defaults for VirtualBox
+      - Accept Defaults for VirtualBox 
       - ** Note:  Left ⌘ (Command Key, http://en.wikipedia.org/wiki/Command_key) directly refers to the ⌘ key left of your space bar on the keyboard. **
       ![setting you memory for 1G](https://raw.github.com/lauraccunningham/homework-01/master/images/3%20importantToLKnowAbout.virtualBoxAutoCaptureFeature%20hitLeftCommandToReleaseMouseAndKeyBoard.png)
             - Becareful for accepting all defaults for setting up the virtual machine.  There are two instances you should make sure you are changes during this process
